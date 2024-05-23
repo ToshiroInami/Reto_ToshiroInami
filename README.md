@@ -1,6 +1,6 @@
 # Reto_ToshiroInami
 
-# 📘 Guía Completa de IBM Watson Natural Language Understanding (NLU) Service Management
+# 📘 Guía Completa de IBM Watson Natural Language Understanding (NLU) Service Managemen
 
 ## 💻 Autores:
 👨🏻‍💻 Toshiro Inami    
